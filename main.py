@@ -5,7 +5,7 @@
 #^a map to o and r map to o (Is not like o map to a and r)
 #Only for 3 characters string
 
-#!/usr/bin/env python
+#!/usr/bin/env 
 from sys import argv
 #pass argument
 
